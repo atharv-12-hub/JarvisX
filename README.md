@@ -47,13 +47,6 @@ jarvis/
 ├── requirements.txt
 └── README.md
 
-## 🚀 How to Run
-1. Clone the repo  
-```bash
-git clone https://github.com/yourusername/jarvis.git
-cd jarvis
-pip install -r requirements.txt
-
 python app.py
 🌟 Future Scope
 Add face recognition login

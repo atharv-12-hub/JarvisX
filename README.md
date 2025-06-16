@@ -34,19 +34,6 @@ Jarvis is an advanced AI-powered desktop assistant built entirely using **Python
 - **APIs:** Weather, News, Gmail SMTP
 - **Other Libraries:** `requests`, `datetime`, `wikipedia`, `os`, `smtplib`
 
-## 📁 Folder Structure
-jarvis/
-├── gui/ # GUI layout and visuals (Tkinter/PyQt)
-├── skills/ # Functional modules (email, weather, control)
-│ ├── email.py
-│ ├── system_control.py
-│ ├── gpt_chat.py
-│ └── ...
-├── assets/ # Icons, sounds, images
-├── app.py # Main launcher
-├── requirements.txt
-└── README.md
-
 python app.py
 🌟 Future Scope
 Add face recognition login
